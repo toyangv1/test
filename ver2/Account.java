@@ -49,6 +49,7 @@ public void deposit(double amount) {
 	}
 }
 
+//New Comment for balance
 //Decreases the balance by amount
 public void withdraw(double amount) {
 	if(amount>0) {
